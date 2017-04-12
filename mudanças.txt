@@ -1,0 +1,11 @@
+sample 1
+
+Alterar o número de amostras em x e y (parametros Nx e Ny)
+Alterar o Modelview
+Descobrir os parametros c_x,c_y,c_z para o deslocamento da camera em determinada direção
+Alterar a cor do plot com glColor3f (para vermelho)
+Aumentar o tamanho da janela e o título
+Mudar a curva e adicionar a grid
+opacidade 0.9
+mudança do ângulo de observação
+mudança da luminosidade (mais baixa e vinda do outro lado)
